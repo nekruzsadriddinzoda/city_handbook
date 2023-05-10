@@ -1,3 +1,4 @@
+`Installation`
 
 Step 1: git clone ` https://github.com/nekruzsadriddinzoda/city_handbook.git `
 
